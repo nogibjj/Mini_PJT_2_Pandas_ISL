@@ -48,8 +48,12 @@ Build a main.py and main_test.py. in 'main.py' this import CSV file(HR.csv) and 
 ![test](https://github.com/user-attachments/assets/b3589147-68d2-40e8-a4f2-6545d5f88798)
 
 **<Mean, Median, Standard Deviation and Histogram>**
-![mean, median, std and histogram](https://github.com/user-attachments/assets/061e19eb-a47b-4b7c-b058-03aa1d2f3552
+![mean, median, std and histogram](image.png)
+
 
 #### Step3. 
 Verify if the GitHub Action is working properly
 <img width="1094" alt="lint, test, format" src="https://github.com/user-attachments/assets/e262feef-059f-47e7-922f-a5c918fcda3e">
+
+#### Extracredit
+[Summarized_report](main_report_pd.pdf)
