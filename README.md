@@ -4,7 +4,7 @@
 [![CI](https://github.com/nogibjj/Mini_Project_Pandas_ISL/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Mini_Project_Pandas_ISL/actions/workflows/hello.yml)
 
 ### Requirements
-    1. Python script using Polars for descriptive statistics
+    1. Python script using Pandas for descriptive statistics
     2. Read a dataset (CSV or Excel)
     3. Generate summary statistics (mean, median, standard deviation)
     4. Create at least one data visualization
@@ -47,12 +47,9 @@ Build a main.py and main_test.py. in 'main.py' this import CSV file(HR.csv) and 
 <main_test.py>
 ![test](https://github.com/user-attachments/assets/b3589147-68d2-40e8-a4f2-6545d5f88798)
 
-<Mean, Median, Standard Deviation and Histogram>
+**<Mean, Median, Standard Deviation and Histogram>**
 ![mean, median, std and histogram](https://github.com/user-attachments/assets/061e19eb-a47b-4b7c-b058-03aa1d2f3552
 
 #### Step3. 
 Verify if the GitHub Action is working properly
 <img width="1094" alt="lint, test, format" src="https://github.com/user-attachments/assets/e262feef-059f-47e7-922f-a5c918fcda3e">
-
-
-
