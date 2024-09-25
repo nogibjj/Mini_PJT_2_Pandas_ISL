@@ -1,7 +1,7 @@
 # IDS-706 Data Engineering Assignment
 ## Mini Project : Pandas Descriptive Statistics Script
 
-[![CI](https://github.com/nogibjj/Mini_Project_Pandas_ISL/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Mini_Project_Pandas_ISL/actions/workflows/hello.yml)
+[![CI](https://github.com/nogibjj/Mini_PJT_2_Pandas_ISL/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/Mini_PJT_2_Pandas_ISL/actions/workflows/CICD.yml)
 
 ### Requirements
     1. Python script using Pandas for descriptive statistics
