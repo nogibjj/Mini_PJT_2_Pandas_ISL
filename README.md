@@ -24,19 +24,19 @@ Dataset : HR.csv (also known as HR Analytics Employee Attrition & Performance)
 Created Github Repository and required files such as Makerfile, requirement.txt, CICD.yml, Dockerfile, devcontainer.json and so on
 
 <YAML> 
-![yml](https://github.com/user-attachments/assets/b7a8b0ea-f5b2-4e80-86ef-b76231bb2f33)
+ ![yml](https://github.com/user-attachments/assets/b7a8b0ea-f5b2-4e80-86ef-b76231bb2f33)
 
 <Makerfile>
-![Makerfile](https://github.com/user-attachments/assets/87853e79-95bc-447e-9aec-473bfd3e1792)
+ ![Makerfile](https://github.com/user-attachments/assets/87853e79-95bc-447e-9aec-473bfd3e1792)
 
 <Requirements>
-![Requirements](https://github.com/user-attachments/assets/705b349f-659d-4061-94f6-9f3da63925ca)
+ ![Requirements](https://github.com/user-attachments/assets/705b349f-659d-4061-94f6-9f3da63925ca)
 
 <Devcontainer>
-![Devcontainer](https://github.com/user-attachments/assets/13abb4f4-a10c-469d-9251-b8c989dd714e)
+ ![Devcontainer](https://github.com/user-attachments/assets/13abb4f4-a10c-469d-9251-b8c989dd714e)
 
 <Docker>
-![Docker](https://github.com/user-attachments/assets/e4e41cdf-d078-4bb2-8151-210d6d78ca3d)
+ ![Docker](https://github.com/user-attachments/assets/e4e41cdf-d078-4bb2-8151-210d6d78ca3d)
 
 #### Step2. 
 Build a main.py and main_test.py. in 'main.py' this import CSV file(HR.csv) and calculate average, median, and Standard deviation of retired employees. Additionally, plot a histrogram to visualize the age distrubution of the retired employees.
